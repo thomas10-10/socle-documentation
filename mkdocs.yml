@@ -4,6 +4,8 @@ pages:
 - CLI: model.md
 - Source Configuration: source-configuration.md
 theme:
+  repo_url: https://github.com/thomas10-10/SOCLE
+  edit_uri: https://github.com/thomas10-10/socle-documentation/docs
   name: material
   features:
     - toc.integrate
