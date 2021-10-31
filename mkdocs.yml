@@ -1,13 +1,13 @@
 site_name: Socle Documentation
 repo_url: https://github.com/thomas10-10/SOCLE
-edit_uri: https://github.com/thomas10-10/socle-documentation/docs
+edit_uri: https://github.com/thomas10-10/socle-documentation/blob/master/docs
 pages:
 - Overview: index.md
 - CLI: model.md
 - Source Configuration: source-configuration.md
 theme:
-  logo: material/square
   name: material
+  logo: material/square
   features:
     - toc.integrate
   palette: 
