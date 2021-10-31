@@ -1,7 +1,7 @@
-site_name: Sample Documentation
+site_name: Socle Documentation
 pages:
-- Heapster Overview: index.md
-- Model: model.md
+- Overview: index.md
+- CLI: model.md
 - Source Configuration: source-configuration.md
 theme: material
 
