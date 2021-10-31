@@ -3,8 +3,8 @@ pages:
 - Overview: index.md
 - CLI: model.md
 - Source Configuration: source-configuration.md
-theme: material
 theme:
+  name: material
   features:
     - toc.integrate
 
