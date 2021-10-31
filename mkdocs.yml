@@ -1,5 +1,6 @@
 site_name: Socle Documentation
 repo_url: https://github.com/thomas10-10/SOCLE
+repo_name: repo_name: thomas10-10/socle
 edit_uri: https://github.com/thomas10-10/socle-documentation/blob/master/docs
 pages:
 - Overview: index.md
