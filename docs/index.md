@@ -1,11 +1,16 @@
-Heapster Overview
-===================
+# Socle
 
-Heapster is a monitoring metrics and events processing tool designed to work inside Kubernetes clusters. It consists of 2 components:
+**S***ystems* **O***n* **C***ontainers* *with* with **L***ightweight* *graphic* **E***nvironment*
+## About The Project
 
-* Heapster core that reads [metrics](storage-schema.md) from Kubernetes cluster nodes (see [sources](source-configuration.md)), 
-do some processing and writes them to permanent storage (see [sinks](sink-configuration.md)). 
-It also provides metrics for other Kubernetes components through [Model API](model.md).
+![untitled-2021-10-30-0047(1).svg](https://i.imgur.com/tPdnQNr.png)
 
-* Eventer that reads events from Kubernetes master (see [sources](source-configuration.md)) and writes them to permanent storage
+SOCLE is a python script to easily execute linux distributions in docker containers, it is made for users who want to easily use or change distributions without breaking the machine and without using a virtual machine.
+
+
+
+### Built With
+
+- python3
+
 (see [sinks](sink-configuration.md)).
