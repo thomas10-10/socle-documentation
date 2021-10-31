@@ -8,12 +8,12 @@ theme:
   features:
     - toc.integrate
   palette: 
-    - media: &quot;(prefers-color-scheme: light)&quot;
+    - media: "&quot;(prefers-color-scheme: light)&quot;"
       scheme: default
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
-    - media: &quot;(prefers-color-scheme: dark)&quot;
+    - media: "&quot;(prefers-color-scheme: dark)&quot;"
       scheme: slate 
       toggle:
         icon: material/weather-sunny
