@@ -6,6 +6,7 @@ pages:
 theme:
   repo_url: https://github.com/thomas10-10/SOCLE
   edit_uri: https://github.com/thomas10-10/socle-documentation/docs
+  logo: material/square
   name: material
   features:
     - toc.integrate
