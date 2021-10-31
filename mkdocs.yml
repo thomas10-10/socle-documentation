@@ -3,5 +3,5 @@ pages:
 - Overview: index.md
 - CLI: model.md
 - Source Configuration: source-configuration.md
-theme: windmill-dark
+theme: windmill
 
