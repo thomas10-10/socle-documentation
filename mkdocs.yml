@@ -4,4 +4,7 @@ pages:
 - CLI: model.md
 - Source Configuration: source-configuration.md
 theme: material
+theme:
+  features:
+    - toc.integrate
 
