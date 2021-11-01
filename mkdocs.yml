@@ -9,6 +9,8 @@ pages:
 - Configuration: configuration.md
 extra_css:
   - stylesheets/extra.css
+markdown_extensions:
+  - attr_list
 theme:
   name: material
   logo: material/square
