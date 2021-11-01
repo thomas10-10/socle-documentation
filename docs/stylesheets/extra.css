@@ -1,9 +1,11 @@
 [data-md-color-scheme="solarized"] {
   --md-primary-fg-color:        #002B36;
+  --md-primary-bg-color: red;
   --md-primary-fg-color--light: #002B36;
   --md-primary-fg-color--dark:  #002B36;
 }
-
-
+.md-sidebar__scrollwrap {
+  border-right: solid 1px ;
+}
 
 
