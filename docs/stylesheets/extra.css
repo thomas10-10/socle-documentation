@@ -4,6 +4,9 @@
   --md-primary-fg-color--light: #002B36;
   --md-primary-fg-color--dark:  #002B36;
 }
+.md-content{
+  box-shadow: 0 0 0.2rem rgb(0 0 0 / 10%), 0 0.2rem 0.4rem rgb(0 0 0 / 20%);
+}
 
 .md-ellipsis {
   font-family: "Bebas Neue"; 
