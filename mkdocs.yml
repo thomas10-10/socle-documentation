@@ -15,12 +15,12 @@ theme:
     - toc.integrate
   palette:
     - media: "&quot;(prefers-color-scheme: light)&quot;"
-      scheme: youtube
+      scheme: solarized-light
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
     - media: "&quot;(prefers-color-scheme: dark)&quot;"
-      scheme: youtube 
+      scheme: slate 
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
