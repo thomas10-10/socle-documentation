@@ -13,7 +13,7 @@ markdown_extensions:
   - attr_list
 theme:
   name: material
-  logo: material/square
+  #logo: material/square
   features:
     - toc.integrate
   palette:
