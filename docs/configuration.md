@@ -8,7 +8,8 @@ myFirst: |
 x-containers are special containers with windows managers,
 [here](https://gitlab.com/containers-for-socle) are the container images i use
 
-[:fontawesome-brands-docker: myFirst](https://gitlab.com/containers-for-socle/i3-101/dockerfiles/-/blob/main/i3-101.build){ .md-button .md-button--primary }
+[:fontawesome-solid-paper-plane: myFirst](https://gitlab.com/containers-for-socle/i3-101/dockerfiles/-/blob/main/i3-101.build){ .md-button .md-button--primary }
+
 - debian buster
 - i3
 - polybar
