@@ -20,7 +20,7 @@ theme:
         icon: material/weather-night
         name: Switch to dark mode
     - media: "&quot;(prefers-color-scheme: dark)&quot;"
-      scheme: slate 
+      scheme: youtube 
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
