@@ -6,15 +6,16 @@ pages:
 - Overview: index.md
 - CLI: model.md
 - Source Configuration: source-configuration.md
+extra_css:
+  - stylesheets/extra.css
 theme:
   name: material
   logo: material/square
   features:
     - toc.integrate
   palette:
-    primary: black
     - media: "&quot;(prefers-color-scheme: light)&quot;"
-      scheme: default
+      scheme: youtube
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
