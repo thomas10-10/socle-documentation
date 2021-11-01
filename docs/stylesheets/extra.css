@@ -5,5 +5,8 @@
   --md-primary-fg-color--dark:  #002B36;
 }
 
+.md-ellipsis {
+  --md-text-font-family: "Allison"; 
+}
 
 
