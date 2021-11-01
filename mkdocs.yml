@@ -16,7 +16,7 @@ theme:
     - toc.integrate
   palette:
     - media: "&quot;(prefers-color-scheme: light)&quot;"
-      scheme: solarized
+      scheme: default
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
