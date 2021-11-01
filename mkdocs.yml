@@ -10,7 +10,7 @@ extra_css:
   - stylesheets/extra.css
 theme:
   font:
-    text: "Stick No Bills"
+    text: "Roboto"
   name: material
   logo: material/square
   features:
