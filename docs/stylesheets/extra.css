@@ -6,7 +6,7 @@
 }
 
 .md-ellipsis {
-  --md-text-font-family: "Allison"; 
+  font-family: "Allison"; 
 }
 
 
