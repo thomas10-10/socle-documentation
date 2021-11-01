@@ -6,7 +6,10 @@
 }
 
 .md-ellipsis {
-  font-family: "Allison"; 
+  font-family: "Bebas Neue"; 
 }
 
+.md-sidebar__scrollwrap {
+  border-right: solid 1px ;
+}
 
