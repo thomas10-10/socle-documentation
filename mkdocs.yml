@@ -9,6 +9,8 @@ pages:
 extra_css:
   - stylesheets/extra.css
 theme:
+  font:
+    text: Fruktur
   name: material
   logo: material/square
   features:
