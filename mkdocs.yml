@@ -11,7 +11,8 @@ theme:
   logo: material/square
   features:
     - toc.integrate
-  palette: 
+  palette:
+      primary: black
     - media: "&quot;(prefers-color-scheme: light)&quot;"
       scheme: default
       toggle:
