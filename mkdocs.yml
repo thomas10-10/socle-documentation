@@ -12,7 +12,7 @@ theme:
   features:
     - toc.integrate
   palette:
-      primary: black
+      primary: #002b36
     - media: "&quot;(prefers-color-scheme: light)&quot;"
       scheme: default
       toggle:
