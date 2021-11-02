@@ -19,8 +19,9 @@ html {
     margin-top: 0rem;
 }
 .md-grid {
-    margin-left: none;
-    margin-right: none;
+    margin-left: 0;
+    margin-right: 0;
+    max-width: 0;
 }
 
 
