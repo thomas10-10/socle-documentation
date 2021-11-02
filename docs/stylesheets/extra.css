@@ -21,7 +21,7 @@ html {
 .md-grid {
     margin-left: 0;
     margin-right: 0;
-    max-width: 0;
+    max-width: 100%;
 }
 
 
