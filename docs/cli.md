@@ -4,20 +4,20 @@
 
 ### `socle create`
 
-!!! socle_create
 
-  === "Description"
+=== "Description"
 
-    create a new x-container define in `~/.config/socle.yml`
-    ```
-    socle create myFirst test1
-    ```
-    <script id="asciicast-333393" src="https://asciinema.org/a/333393.js" async></script>
-    [![asciicast](https://asciinema.org/a/333393.svg)](https://asciinema.org/a/333393)
-    
-  === "Example"
+  create a new x-container define in `~/.config/socle.yml`
+  ```
+  socle create myFirst test1
+  ```
+  <script id="asciicast-333393" src="https://asciinema.org/a/333393.js" async></script>
+  
+  [![asciicast](https://asciinema.org/a/333393.svg)](https://asciinema.org/a/333393)
 
-    test
+=== "Example"
+
+  test
 
 ### `socle list`
 list all containers
