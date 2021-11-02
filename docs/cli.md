@@ -10,6 +10,7 @@
   ```
   socle create myFirst test1
   ```
+  [![asciicast](https://asciinema.org/a/333393.svg)](https://asciinema.org/a/333393)
 
 === "Example"
 
