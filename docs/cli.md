@@ -25,6 +25,18 @@ start x on x-container
 socle x test1
 ```
 
+=== "Description"
+
+  ```
+  socle create myFirst test1
+  ```
+  
+=== "Example"
+
+  ```
+  socle create myFirst test1
+  ```
+
 ## other commands
 ### socle start
 ### socle stop
