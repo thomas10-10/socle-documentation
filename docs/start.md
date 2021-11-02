@@ -12,7 +12,8 @@
     ```
 
 === "Example"
-    <div><div style="height: 100%; width: 100%;">
+    <div>
     <script id="asciicast-143081" src="https://asciinema.org/a/143081.js" async></script>
-    </div></div>
-    
+    </div>
+
+
