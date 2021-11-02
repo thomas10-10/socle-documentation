@@ -13,7 +13,7 @@
 
 === "Example"
     
-    <div><script id="asciicast-407282" src="https://asciinema.org/a/407282.js" async></script></div>
+    <iframe style="height: 500px;width: 100% ;overflow: auto; margin: 0px; border: 0px; width: 100%;" src="https://asciinema.org/a/407282/embed?" scrolling="no"></iframe>
 
 
     
