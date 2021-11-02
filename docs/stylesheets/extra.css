@@ -8,6 +8,23 @@
   box-shadow: 0 0 0.2rem rgb(0 0 0 / 10%), 0 0.2rem 0.4rem rgb(0 0 0 / 20%);
 }
 
+
+.md-footer__inner {
+    padding: 0;
+}
+html {
+    font-size: 120%;
+}
+.md-main__inner {
+    margin-top: 0rem;
+}
+.md-grid {
+    margin-left: none;
+    margin-right: none;
+}
+
+
+
 /*
 .md-ellipsis {
   font-family: "Bebas Neue"; 
