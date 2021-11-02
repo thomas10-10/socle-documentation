@@ -10,6 +10,7 @@
   ```
   socle create myFirst test1
   ```
+  <script id="asciicast-333393" src="https://asciinema.org/a/333393.js" async></script>
   [![asciicast](https://asciinema.org/a/333393.svg)](https://asciinema.org/a/333393)
 
 === "Example"
