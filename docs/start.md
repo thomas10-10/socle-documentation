@@ -12,8 +12,9 @@
     ```
 
 === "C++"
-
-    ``` c++
+    
+    <script id="asciicast-333393" src="https://asciinema.org/a/333393.js" async></script>
+    ```
     #include <iostream>
 
     int main(void) {
