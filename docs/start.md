@@ -13,9 +13,13 @@
 
 === "Example"
 
-    <div><script id="asciicast-330532" src="https://asciinema.org/a/330532.js" async></script></div>
-    <div style="resize: both;"><iframe style="height: 600px;overflow: auto; margin: 0px; border: 0px; width: 800px;" src="https://asciinema.org/a/407282/embed?" scrolling="yes"></iframe></div>
-
+	<section id="featured-slider" style="">
+			<section id="wrap_inner" style=" width:640px;">
+			<div style="width: 1200px; height:500px">
+      <script id="asciicast-333393" src="https://asciinema.org/a/333393.js" async></script>
+      </div>
+      </section>						
+	</section>
 
     
     
