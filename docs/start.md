@@ -13,7 +13,7 @@
 
 === "Example"
     
-    <iframe style="height: 500px;width: 100% ;overflow: auto; margin: 0px; border: 0px; width: 100%;" src="https://asciinema.org/a/407282/embed?" scrolling="no"></iframe>
+    <iframe style="height: 500px;overflow: auto; margin: 0px; border: 0px; width: 500px;" src="https://asciinema.org/a/407282/embed?" scrolling="yes"></iframe>
 
 
     
