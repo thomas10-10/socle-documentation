@@ -13,5 +13,5 @@
 
 === "C++"
     
-    <script id="asciicast-333393" src="https://asciinema.org/a/333393.js" async></script>
+    <script id="asciicast-143081" src="https://asciinema.org/a/143081.js" async></script>
     
