@@ -14,11 +14,12 @@ markdown_extensions:
   - meta
 theme:
   name: material
-  #logo: material/square
   features:
     - toc.integrate
     - navigation.instant
     - navigation.tracking
+    - navigation.tabs.sticky
+  #logo: material/square
     
   palette:
     - media: "&quot;(prefers-color-scheme: light)&quot;"
