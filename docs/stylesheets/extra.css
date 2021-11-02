@@ -5,6 +5,15 @@
   --md-primary-fg-color--dark:  #002B36;
 }
 
+
+#featured-slider #wrap {
+	overflow-x: scroll;
+	overflow: -moz-scrollbars-horizontal;
+	width: auto;
+	height: auto;
+}
+
+
 /*
 iframe {
   width: 100% !important;
