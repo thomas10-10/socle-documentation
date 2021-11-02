@@ -6,13 +6,13 @@
 
 === Description
 
-create a new x-container define in `~/.config/socle.yml`
-```
-socle create myFirst test1
-```
+  create a new x-container define in `~/.config/socle.yml`
+  ```
+  socle create myFirst test1
+  ```
 === Example
 
-test
+  test
 
 ### `socle list`
 list all containers
