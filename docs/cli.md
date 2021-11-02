@@ -4,13 +4,14 @@
 
 ### `socle create`
 
-=== Description
+=== "Description"
 
   create a new x-container define in `~/.config/socle.yml`
   ```
   socle create myFirst test1
   ```
-=== Example
+
+=== "Example"
 
   test
 
