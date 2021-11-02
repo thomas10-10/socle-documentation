@@ -3,7 +3,8 @@
 ## usal commands
 
 ### `socle create`
-!!! socle create
+
+!!! socle_create
 
   === "Description"
 
@@ -13,6 +14,7 @@
     ```
     <script id="asciicast-333393" src="https://asciinema.org/a/333393.js" async></script>
     [![asciicast](https://asciinema.org/a/333393.svg)](https://asciinema.org/a/333393)
+    
   === "Example"
 
     test
