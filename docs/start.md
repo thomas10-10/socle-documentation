@@ -1,6 +1,6 @@
 # Get started
 
-=== "C"
+=== "Description"
 
     ``` c
     #include <stdio.h>
@@ -11,7 +11,7 @@
     }
     ```
 
-=== "C++"
+=== "Example"
     
     <script id="asciicast-143081" src="https://asciinema.org/a/143081.js" async></script>
     
