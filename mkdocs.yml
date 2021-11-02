@@ -4,7 +4,7 @@ repo_name: thomas10-10/socle
 edit_uri: https://github.com/thomas10-10/socle-documentation/blob/master/docs
 pages:
 - Overview: index.md
-- Get Started: start.md
+- "Get Started": start.md
 - CLI: cli.md
 - Configuration: configuration.md
 extra_css:
@@ -24,8 +24,6 @@ theme:
     - toc.integrate
     - navigation.instant
     - navigation.tracking
-    - navigation.tabs.sticky
-    - content.tabs.link
   #logo: material/square
     
   palette:
