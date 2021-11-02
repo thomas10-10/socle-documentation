@@ -14,7 +14,7 @@
 === "Example"
 
     <div><script id="asciicast-330532" src="https://asciinema.org/a/330532.js" async></script></div>
-    <div><iframe style="height: 500px;overflow: auto; margin: 0px; border: 0px; width: 500px;" src="https://asciinema.org/a/407282/embed?" scrolling="yes"></iframe></div>
+    <div style="resize: both;"><iframe style="height: 600px;overflow: auto; margin: 0px; border: 0px; width: 800px;" src="https://asciinema.org/a/407282/embed?" scrolling="yes"></iframe></div>
 
 
     
