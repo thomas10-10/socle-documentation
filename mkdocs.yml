@@ -20,6 +20,7 @@ markdown_extensions:
       alternate_style: true 
   - admonition
 theme:
+  logo: https://i.imgur.com/PbtZEzV.png
   name: material
   features:
     - toc.integrate
