@@ -20,6 +20,7 @@ markdown_extensions:
       alternate_style: true 
   - admonition
 theme:
+  favicon: https://i.imgur.com/PbtZEzV.png
   logo: https://i.imgur.com/PbtZEzV.png
   name: material
   features:
